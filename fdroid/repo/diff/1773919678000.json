@@ -1,0 +1,30 @@
+{
+  "repo": {
+    "timestamp": 1773919682000,
+    "categories": {
+      "fdroid": null,
+      "Launcher": {
+        "name": {
+          "en-US": "Launcher"
+        }
+      }
+    }
+  },
+  "packages": {
+    "com.seniorlauncher.app": {
+      "metadata": {
+        "categories": [
+          "Launcher"
+        ],
+        "sourceCode": "https://github.com/rubenbupe/senior-launcher",
+        "authorName": "rubenbupe",
+        "summary": {
+          "en-US": "Android launcher for seniors"
+        },
+        "description": {
+          "en-US": "Senior Launcher is an Android launcher app designed for older users, with a simplified interface, visual accessibility, and optional remote control through a backend.\n\n<b>What it is</b>\n\n- Main Android launcher with simple navigation.\n- Includes built-in mini apps: phone, SMS, camera, gallery, and flashlight.\n- Lets you choose and sort allowed apps shown on the home screen.\n- Can optionally sync with a backend for real-time remote control.\n"
+        }
+      }
+    }
+  }
+}
