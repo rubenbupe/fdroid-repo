@@ -1,0 +1,19 @@
+AuthorName: rubenbupe
+Categories:
+    - Launcher
+CurrentVersion: 1.0.1
+CurrentVersionCode: 8
+Description: |
+    Senior Launcher is an Android launcher app designed for older users, with a simplified interface, visual accessibility, and optional remote control through a backend.
+
+    <b>What it is</b>
+
+    - Main Android launcher with simple navigation.
+    - Includes built-in mini apps: phone, SMS, camera, gallery, and flashlight.
+    - Lets you choose and sort allowed apps shown on the home screen.
+    - Can optionally sync with a backend for real-time remote control.
+IssueTracker: ""
+Name: Senior Launcher
+SourceCode: https://github.com/rubenbupe/senior-launcher
+Summary: Android launcher for seniors
+WebSite: ""
