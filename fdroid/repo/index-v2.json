@@ -14,7 +14,7 @@
       }
     },
     "address": "https://raw.githubusercontent.com/rubenbupe/fdroid-repo/main/fdroid/repo",
-    "timestamp": 1773923224000,
+    "timestamp": 1773924411000,
     "categories": {
       "Launcher": {
         "name": {
@@ -30,7 +30,7 @@
         "categories": [
           "Launcher"
         ],
-        "lastUpdated": 1773923220000,
+        "lastUpdated": 1773924407000,
         "sourceCode": "https://github.com/rubenbupe/senior-launcher",
         "authorName": "rubenbupe",
         "name": {
@@ -45,6 +45,111 @@
         "preferredSigner": "5d609874213128a0df3dcdd3e68f5581b1d7920ff363c84701fd2d1090c818f9"
       },
       "versions": {
+        "6b1ae69089f71f2843b62c5001e48cea0101ec52c1996d483a02b6cb52bfadf6": {
+          "added": 1773924407000,
+          "file": {
+            "name": "/senior-launcher_v1.0.3.apk",
+            "sha256": "6b1ae69089f71f2843b62c5001e48cea0101ec52c1996d483a02b6cb52bfadf6",
+            "size": 13228906
+          },
+          "manifest": {
+            "nativecode": [
+              "arm64-v8a",
+              "armeabi-v7a",
+              "x86",
+              "x86_64"
+            ],
+            "versionName": "1.0.3",
+            "versionCode": 10,
+            "usesSdk": {
+              "minSdkVersion": 26,
+              "targetSdkVersion": 36
+            },
+            "signer": {
+              "sha256": [
+                "5d609874213128a0df3dcdd3e68f5581b1d7920ff363c84701fd2d1090c818f9"
+              ]
+            },
+            "usesPermission": [
+              {
+                "name": "android.permission.READ_CONTACTS"
+              },
+              {
+                "name": "android.permission.WRITE_CONTACTS"
+              },
+              {
+                "name": "android.permission.CALL_PHONE"
+              },
+              {
+                "name": "android.permission.READ_PHONE_STATE"
+              },
+              {
+                "name": "android.permission.READ_CALL_LOG"
+              },
+              {
+                "name": "android.permission.WRITE_CALL_LOG"
+              },
+              {
+                "name": "android.permission.READ_SMS"
+              },
+              {
+                "name": "android.permission.SEND_SMS"
+              },
+              {
+                "name": "android.permission.RECEIVE_SMS"
+              },
+              {
+                "name": "android.permission.RECEIVE_MMS"
+              },
+              {
+                "name": "android.permission.RECEIVE_WAP_PUSH"
+              },
+              {
+                "name": "android.permission.ACCESS_NOTIFICATION_POLICY"
+              },
+              {
+                "name": "android.permission.INTERNET"
+              },
+              {
+                "name": "android.permission.QUERY_ALL_PACKAGES"
+              },
+              {
+                "name": "android.permission.CAMERA"
+              },
+              {
+                "name": "android.permission.RECORD_AUDIO"
+              },
+              {
+                "name": "android.permission.READ_MEDIA_IMAGES"
+              },
+              {
+                "name": "android.permission.READ_MEDIA_VIDEO"
+              },
+              {
+                "name": "android.permission.READ_EXTERNAL_STORAGE",
+                "maxSdkVersion": 32
+              },
+              {
+                "name": "android.permission.WAKE_LOCK"
+              },
+              {
+                "name": "android.permission.FOREGROUND_SERVICE"
+              },
+              {
+                "name": "android.permission.FOREGROUND_SERVICE_DATA_SYNC"
+              },
+              {
+                "name": "android.permission.POST_NOTIFICATIONS"
+              },
+              {
+                "name": "android.permission.RECEIVE_BOOT_COMPLETED"
+              },
+              {
+                "name": "com.seniorlauncher.app.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION"
+              }
+            ]
+          }
+        },
         "4642abc16a6ec445d775f2dca6588c8c17dda8a1cf5cc010e8bfa7cad498b91f": {
           "added": 1773923220000,
           "file": {
