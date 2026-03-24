@@ -1,6 +1,6 @@
 {
   "repo": {
-    "timestamp": 1774326848000,
+    "timestamp": 1774364594000,
     "version": 20002,
     "name": "My First F-Droid Repo Demo",
     "icon": "icon.png",
@@ -17,8 +17,8 @@
       "categories": [
         "Launcher"
       ],
-      "suggestedVersionName": "1.0.3",
-      "suggestedVersionCode": "10",
+      "suggestedVersionName": "1.0.4",
+      "suggestedVersionCode": "11",
       "description": "Senior Launcher is an Android launcher app designed for older users, with a simplified interface, visual accessibility, and optional remote control through a backend.\n\n<b>What it is</b>\n\n- Main Android launcher with simple navigation.\n- Includes built-in mini apps: phone, SMS, camera, gallery, and flashlight.\n- Lets you choose and sort allowed apps shown on the home screen.\n- Can optionally sync with a backend for real-time remote control.\n",
       "license": "Unknown",
       "name": "Senior Launcher",
@@ -26,16 +26,138 @@
       "summary": "Android launcher for seniors",
       "added": 1773921668000,
       "packageName": "com.seniorlauncher.app",
-      "lastUpdated": 1773924407000,
+      "lastUpdated": 1774364591000,
       "localized": {
         "en-US": {
-          "whatsNew": "**Full Changelog**: https://github.com/rubenbupe/senior-launcher/compare/v1.0.0...v1.0.3"
+          "whatsNew": "**Full Changelog**: https://github.com/rubenbupe/senior-launcher/compare/v1.0.0...v1.0.4"
         }
       }
     }
   ],
   "packages": {
     "com.seniorlauncher.app": [
+      {
+        "added": 1774364591000,
+        "apkName": "senior-launcher_v1.0.4.apk",
+        "hash": "b853a90dc29f3afb2b65267f7831189a9f30c2b6abac0fdba05fa5c290997407",
+        "hashType": "sha256",
+        "minSdkVersion": 26,
+        "nativecode": [
+          "arm64-v8a",
+          "armeabi-v7a",
+          "x86",
+          "x86_64"
+        ],
+        "packageName": "com.seniorlauncher.app",
+        "sig": "83c24da809e67c2feb953fb9c68b1766",
+        "signer": "5d609874213128a0df3dcdd3e68f5581b1d7920ff363c84701fd2d1090c818f9",
+        "size": 13228906,
+        "targetSdkVersion": 36,
+        "uses-permission": [
+          [
+            "android.permission.READ_CONTACTS",
+            null
+          ],
+          [
+            "android.permission.WRITE_CONTACTS",
+            null
+          ],
+          [
+            "android.permission.CALL_PHONE",
+            null
+          ],
+          [
+            "android.permission.READ_PHONE_STATE",
+            null
+          ],
+          [
+            "android.permission.READ_CALL_LOG",
+            null
+          ],
+          [
+            "android.permission.WRITE_CALL_LOG",
+            null
+          ],
+          [
+            "android.permission.READ_SMS",
+            null
+          ],
+          [
+            "android.permission.SEND_SMS",
+            null
+          ],
+          [
+            "android.permission.RECEIVE_SMS",
+            null
+          ],
+          [
+            "android.permission.RECEIVE_MMS",
+            null
+          ],
+          [
+            "android.permission.RECEIVE_WAP_PUSH",
+            null
+          ],
+          [
+            "android.permission.ACCESS_NOTIFICATION_POLICY",
+            null
+          ],
+          [
+            "android.permission.INTERNET",
+            null
+          ],
+          [
+            "android.permission.QUERY_ALL_PACKAGES",
+            null
+          ],
+          [
+            "android.permission.CAMERA",
+            null
+          ],
+          [
+            "android.permission.RECORD_AUDIO",
+            null
+          ],
+          [
+            "android.permission.READ_MEDIA_IMAGES",
+            null
+          ],
+          [
+            "android.permission.READ_MEDIA_VIDEO",
+            null
+          ],
+          [
+            "android.permission.READ_EXTERNAL_STORAGE",
+            32
+          ],
+          [
+            "android.permission.WAKE_LOCK",
+            null
+          ],
+          [
+            "android.permission.FOREGROUND_SERVICE",
+            null
+          ],
+          [
+            "android.permission.FOREGROUND_SERVICE_DATA_SYNC",
+            null
+          ],
+          [
+            "android.permission.POST_NOTIFICATIONS",
+            null
+          ],
+          [
+            "android.permission.RECEIVE_BOOT_COMPLETED",
+            null
+          ],
+          [
+            "com.seniorlauncher.app.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION",
+            null
+          ]
+        ],
+        "versionCode": 11,
+        "versionName": "1.0.4"
+      },
       {
         "added": 1773924407000,
         "apkName": "senior-launcher_v1.0.3.apk",
