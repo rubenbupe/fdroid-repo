@@ -1,8 +1,8 @@
 AuthorName: rubenbupe
 Categories:
     - Launcher
-CurrentVersion: 1.0.6
-CurrentVersionCode: 13
+CurrentVersion: 1.0.7
+CurrentVersionCode: 14
 Description: |
     Senior Launcher is an Android launcher app designed for older users, with a simplified interface, visual accessibility, and optional remote control through a backend.
 

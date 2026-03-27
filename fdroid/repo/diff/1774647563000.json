@@ -1,0 +1,14 @@
+{
+  "repo": {
+    "timestamp": 1774647567000
+  },
+  "packages": {
+    "com.seniorlauncher.app": {
+      "versions": {
+        "e3f4304ffcc0672cf18586f861a482aebda325532ccefbf9a86c21531cfb3d8d": {
+          "releaseChannels": null
+        }
+      }
+    }
+  }
+}
