@@ -6,7 +6,7 @@ This repository hosts an [F-Droid](https://f-droid.org/) repo for my apps. This 
 <!-- This table is auto-generated. Do not edit -->
 | Icon | Name | Description | Version |
 | --- | --- | --- | --- |
-| <a href="https://github.com/rubenbupe/senior-launcher"><img src="fdroid/repo/icons/" alt="Senior Launcher icon" width="36px" height="36px"></a> | [**Senior Launcher**](https://github.com/rubenbupe/senior-launcher) | Android launcher for seniors | 1.0.7 (14) |
+| <a href="https://github.com/rubenbupe/senior-launcher"><img src="fdroid/repo/icons/" alt="Senior Launcher icon" width="36px" height="36px"></a> | [**Senior Launcher**](https://github.com/rubenbupe/senior-launcher) | Android launcher for seniors | 1.0.8 (15) |
 <!-- end apps table -->
 
 ### How to use

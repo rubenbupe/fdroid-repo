@@ -14,7 +14,7 @@
       }
     },
     "address": "https://raw.githubusercontent.com/rubenbupe/fdroid-repo/main/fdroid/repo",
-    "timestamp": 1775452461000,
+    "timestamp": 1775475323000,
     "categories": {
       "Launcher": {
         "name": {
@@ -30,7 +30,7 @@
         "categories": [
           "Launcher"
         ],
-        "lastUpdated": 1774647563000,
+        "lastUpdated": 1775475318000,
         "sourceCode": "https://github.com/rubenbupe/senior-launcher",
         "authorName": "rubenbupe",
         "name": {
@@ -45,6 +45,114 @@
         "preferredSigner": "5d609874213128a0df3dcdd3e68f5581b1d7920ff363c84701fd2d1090c818f9"
       },
       "versions": {
+        "1d70b860a6b93db7fe2fa48b449a2850d8cbd56b2e734b6c3868493cbe39b5ef": {
+          "added": 1775475318000,
+          "file": {
+            "name": "/senior-launcher_v1.0.8.apk",
+            "sha256": "1d70b860a6b93db7fe2fa48b449a2850d8cbd56b2e734b6c3868493cbe39b5ef",
+            "size": 13228942
+          },
+          "manifest": {
+            "nativecode": [
+              "arm64-v8a",
+              "armeabi-v7a",
+              "x86",
+              "x86_64"
+            ],
+            "versionName": "1.0.8",
+            "versionCode": 15,
+            "usesSdk": {
+              "minSdkVersion": 26,
+              "targetSdkVersion": 36
+            },
+            "signer": {
+              "sha256": [
+                "5d609874213128a0df3dcdd3e68f5581b1d7920ff363c84701fd2d1090c818f9"
+              ]
+            },
+            "usesPermission": [
+              {
+                "name": "android.permission.READ_CONTACTS"
+              },
+              {
+                "name": "android.permission.WRITE_CONTACTS"
+              },
+              {
+                "name": "android.permission.CALL_PHONE"
+              },
+              {
+                "name": "android.permission.READ_PHONE_STATE"
+              },
+              {
+                "name": "android.permission.READ_CALL_LOG"
+              },
+              {
+                "name": "android.permission.WRITE_CALL_LOG"
+              },
+              {
+                "name": "android.permission.READ_SMS"
+              },
+              {
+                "name": "android.permission.SEND_SMS"
+              },
+              {
+                "name": "android.permission.RECEIVE_SMS"
+              },
+              {
+                "name": "android.permission.RECEIVE_MMS"
+              },
+              {
+                "name": "android.permission.RECEIVE_WAP_PUSH"
+              },
+              {
+                "name": "android.permission.ACCESS_NOTIFICATION_POLICY"
+              },
+              {
+                "name": "android.permission.INTERNET"
+              },
+              {
+                "name": "android.permission.QUERY_ALL_PACKAGES"
+              },
+              {
+                "name": "android.permission.CAMERA"
+              },
+              {
+                "name": "android.permission.RECORD_AUDIO"
+              },
+              {
+                "name": "android.permission.READ_MEDIA_IMAGES"
+              },
+              {
+                "name": "android.permission.READ_MEDIA_VIDEO"
+              },
+              {
+                "name": "android.permission.MANAGE_EXTERNAL_STORAGE"
+              },
+              {
+                "name": "android.permission.READ_EXTERNAL_STORAGE",
+                "maxSdkVersion": 32
+              },
+              {
+                "name": "android.permission.WAKE_LOCK"
+              },
+              {
+                "name": "android.permission.FOREGROUND_SERVICE"
+              },
+              {
+                "name": "android.permission.FOREGROUND_SERVICE_DATA_SYNC"
+              },
+              {
+                "name": "android.permission.POST_NOTIFICATIONS"
+              },
+              {
+                "name": "android.permission.RECEIVE_BOOT_COMPLETED"
+              },
+              {
+                "name": "com.seniorlauncher.app.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION"
+              }
+            ]
+          }
+        },
         "e3f4304ffcc0672cf18586f861a482aebda325532ccefbf9a86c21531cfb3d8d": {
           "added": 1774647563000,
           "file": {
