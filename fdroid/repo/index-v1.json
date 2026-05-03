@@ -1,6 +1,6 @@
 {
   "repo": {
-    "timestamp": 1777528091000,
+    "timestamp": 1777787378000,
     "version": 20002,
     "name": "My First F-Droid Repo Demo",
     "icon": "icon.png",
@@ -24,9 +24,9 @@
       "name": "Senior Launcher",
       "sourceCode": "https://github.com/rubenbupe/senior-launcher",
       "summary": "Android launcher for seniors",
-      "added": 1773921668000,
+      "added": 1777787370000,
       "packageName": "com.seniorlauncher.app",
-      "lastUpdated": 1775476192000,
+      "lastUpdated": 1777787373000,
       "localized": {
         "en-US": {
           "whatsNew": "**Full Changelog**: https://github.com/rubenbupe/senior-launcher/compare/v1.0.8...v1.0.9"
@@ -37,7 +37,7 @@
   "packages": {
     "com.seniorlauncher.app": [
       {
-        "added": 1775476192000,
+        "added": 1777787373000,
         "apkName": "senior-launcher_v1.0.9.apk",
         "hash": "417487ed388ea9fa97aaf9a913415f983a7b2d93b34e0e2b0b5cdba14fdc16f5",
         "hashType": "sha256",
@@ -163,7 +163,7 @@
         "versionName": "1.0.9"
       },
       {
-        "added": 1775475318000,
+        "added": 1777787373000,
         "apkName": "senior-launcher_v1.0.8.apk",
         "hash": "1d70b860a6b93db7fe2fa48b449a2850d8cbd56b2e734b6c3868493cbe39b5ef",
         "hashType": "sha256",
@@ -289,7 +289,7 @@
         "versionName": "1.0.8"
       },
       {
-        "added": 1774647563000,
+        "added": 1777787372000,
         "apkName": "senior-launcher_v1.0.7.apk",
         "hash": "e3f4304ffcc0672cf18586f861a482aebda325532ccefbf9a86c21531cfb3d8d",
         "hashType": "sha256",
@@ -415,7 +415,7 @@
         "versionName": "1.0.7"
       },
       {
-        "added": 1774639897000,
+        "added": 1777787372000,
         "apkName": "senior-launcher_v1.0.6.apk",
         "hash": "38a7e3a74adfae0c8732419e6d2fa419e5378b157d8caa45dfaf2164c25f26b7",
         "hashType": "sha256",
@@ -537,7 +537,7 @@
         "versionName": "1.0.6"
       },
       {
-        "added": 1774375770000,
+        "added": 1777787372000,
         "apkName": "senior-launcher_v1.0.5.apk",
         "hash": "d813c2455604aa220ca9c914c021b5ab198fccbcc8fcb3f96cfdeed3cba746a2",
         "hashType": "sha256",
@@ -659,7 +659,7 @@
         "versionName": "1.0.5"
       },
       {
-        "added": 1774364591000,
+        "added": 1777787371000,
         "apkName": "senior-launcher_v1.0.4.apk",
         "hash": "b853a90dc29f3afb2b65267f7831189a9f30c2b6abac0fdba05fa5c290997407",
         "hashType": "sha256",
@@ -781,7 +781,7 @@
         "versionName": "1.0.4"
       },
       {
-        "added": 1773924407000,
+        "added": 1777787371000,
         "apkName": "senior-launcher_v1.0.3.apk",
         "hash": "6b1ae69089f71f2843b62c5001e48cea0101ec52c1996d483a02b6cb52bfadf6",
         "hashType": "sha256",
@@ -903,7 +903,7 @@
         "versionName": "1.0.3"
       },
       {
-        "added": 1773923220000,
+        "added": 1777787371000,
         "apkName": "senior-launcher_v1.0.2.apk",
         "hash": "4642abc16a6ec445d775f2dca6588c8c17dda8a1cf5cc010e8bfa7cad498b91f",
         "hashType": "sha256",
@@ -1025,7 +1025,7 @@
         "versionName": "1.0.2"
       },
       {
-        "added": 1773921669000,
+        "added": 1777787370000,
         "apkName": "senior-launcher_v1.0.1.apk",
         "hash": "8938fc90ed1f87b05b64416784538b13982b061cbdd802472fb70c650cbf5c85",
         "hashType": "sha256",
@@ -1147,7 +1147,7 @@
         "versionName": "1.0.1"
       },
       {
-        "added": 1773921668000,
+        "added": 1777787370000,
         "apkName": "senior-launcher_v1.0.0.apk",
         "hash": "91ab4dcdddcab1c60d78c39f293b519267e5988016c0f939b21f862b29a3928a",
         "hashType": "sha256",
