@@ -14,54 +14,16 @@
       }
     },
     "address": "https://raw.githubusercontent.com/rubenbupe/fdroid-repo/main/fdroid/repo",
-    "timestamp": 1777874008000,
-    "categories": {
-      "Launcher": {
-        "name": {
-          "en-US": "Launcher"
-        }
-      },
-      "fdroid": {
-        "name": {
-          "en-US": "fdroid"
-        }
-      }
-    }
+    "timestamp": 1777959183000
   },
   "packages": {
-    "6212ebbca1f6b9979c1e549a3456d49c708070d51ee73f4e6eec9ba921c38ce4": {
-      "metadata": {
-        "added": 1777874004000,
-        "categories": [
-          "fdroid"
-        ],
-        "lastUpdated": 1777874004000,
-        "name": {
-          "en-US": "categories"
-        }
-      },
-      "versions": {
-        "6212ebbca1f6b9979c1e549a3456d49c708070d51ee73f4e6eec9ba921c38ce4": {
-          "added": 1777874004000,
-          "file": {
-            "name": "/categories.txt",
-            "sha256": "6212ebbca1f6b9979c1e549a3456d49c708070d51ee73f4e6eec9ba921c38ce4",
-            "size": 9
-          },
-          "manifest": {
-            "versionName": "6212ebb",
-            "versionCode": 0
-          }
-        }
-      }
-    },
     "com.seniorlauncher.app": {
       "metadata": {
-        "added": 1777787370000,
+        "added": 1777959175000,
         "categories": [
           "Launcher"
         ],
-        "lastUpdated": 1777787373000,
+        "lastUpdated": 1777959178000,
         "sourceCode": "https://github.com/rubenbupe/senior-launcher",
         "authorName": "rubenbupe",
         "name": {
@@ -77,7 +39,7 @@
       },
       "versions": {
         "417487ed388ea9fa97aaf9a913415f983a7b2d93b34e0e2b0b5cdba14fdc16f5": {
-          "added": 1777787373000,
+          "added": 1777959178000,
           "file": {
             "name": "/senior-launcher_v1.0.9.apk",
             "sha256": "417487ed388ea9fa97aaf9a913415f983a7b2d93b34e0e2b0b5cdba14fdc16f5",
@@ -185,7 +147,7 @@
           }
         },
         "1d70b860a6b93db7fe2fa48b449a2850d8cbd56b2e734b6c3868493cbe39b5ef": {
-          "added": 1777787373000,
+          "added": 1777959178000,
           "file": {
             "name": "/senior-launcher_v1.0.8.apk",
             "sha256": "1d70b860a6b93db7fe2fa48b449a2850d8cbd56b2e734b6c3868493cbe39b5ef",
@@ -293,7 +255,7 @@
           }
         },
         "e3f4304ffcc0672cf18586f861a482aebda325532ccefbf9a86c21531cfb3d8d": {
-          "added": 1777787372000,
+          "added": 1777959178000,
           "file": {
             "name": "/senior-launcher_v1.0.7.apk",
             "sha256": "e3f4304ffcc0672cf18586f861a482aebda325532ccefbf9a86c21531cfb3d8d",
@@ -401,7 +363,7 @@
           }
         },
         "38a7e3a74adfae0c8732419e6d2fa419e5378b157d8caa45dfaf2164c25f26b7": {
-          "added": 1777787372000,
+          "added": 1777959177000,
           "file": {
             "name": "/senior-launcher_v1.0.6.apk",
             "sha256": "38a7e3a74adfae0c8732419e6d2fa419e5378b157d8caa45dfaf2164c25f26b7",
@@ -506,7 +468,7 @@
           }
         },
         "d813c2455604aa220ca9c914c021b5ab198fccbcc8fcb3f96cfdeed3cba746a2": {
-          "added": 1777787372000,
+          "added": 1777959177000,
           "file": {
             "name": "/senior-launcher_v1.0.5.apk",
             "sha256": "d813c2455604aa220ca9c914c021b5ab198fccbcc8fcb3f96cfdeed3cba746a2",
@@ -611,7 +573,7 @@
           }
         },
         "b853a90dc29f3afb2b65267f7831189a9f30c2b6abac0fdba05fa5c290997407": {
-          "added": 1777787371000,
+          "added": 1777959177000,
           "file": {
             "name": "/senior-launcher_v1.0.4.apk",
             "sha256": "b853a90dc29f3afb2b65267f7831189a9f30c2b6abac0fdba05fa5c290997407",
@@ -716,7 +678,7 @@
           }
         },
         "6b1ae69089f71f2843b62c5001e48cea0101ec52c1996d483a02b6cb52bfadf6": {
-          "added": 1777787371000,
+          "added": 1777959176000,
           "file": {
             "name": "/senior-launcher_v1.0.3.apk",
             "sha256": "6b1ae69089f71f2843b62c5001e48cea0101ec52c1996d483a02b6cb52bfadf6",
@@ -821,7 +783,7 @@
           }
         },
         "4642abc16a6ec445d775f2dca6588c8c17dda8a1cf5cc010e8bfa7cad498b91f": {
-          "added": 1777787371000,
+          "added": 1777959176000,
           "file": {
             "name": "/senior-launcher_v1.0.2.apk",
             "sha256": "4642abc16a6ec445d775f2dca6588c8c17dda8a1cf5cc010e8bfa7cad498b91f",
@@ -926,7 +888,7 @@
           }
         },
         "8938fc90ed1f87b05b64416784538b13982b061cbdd802472fb70c650cbf5c85": {
-          "added": 1777787370000,
+          "added": 1777959175000,
           "file": {
             "name": "/senior-launcher_v1.0.1.apk",
             "sha256": "8938fc90ed1f87b05b64416784538b13982b061cbdd802472fb70c650cbf5c85",
@@ -1031,7 +993,7 @@
           }
         },
         "91ab4dcdddcab1c60d78c39f293b519267e5988016c0f939b21f862b29a3928a": {
-          "added": 1777787370000,
+          "added": 1777959175000,
           "file": {
             "name": "/senior-launcher_v1.0.0.apk",
             "sha256": "91ab4dcdddcab1c60d78c39f293b519267e5988016c0f939b21f862b29a3928a",
