@@ -14,9 +14,47 @@
       }
     },
     "address": "https://raw.githubusercontent.com/rubenbupe/fdroid-repo/main/fdroid/repo",
-    "timestamp": 1777959183000
+    "timestamp": 1778046395000,
+    "categories": {
+      "Launcher": {
+        "name": {
+          "en-US": "Launcher"
+        }
+      },
+      "fdroid": {
+        "name": {
+          "en-US": "fdroid"
+        }
+      }
+    }
   },
   "packages": {
+    "cd96d4a90839458684f1b1d095b5523a0546b9da693dfc4a3ae88bb92323f632": {
+      "metadata": {
+        "added": 1778046391000,
+        "categories": [
+          "fdroid"
+        ],
+        "lastUpdated": 1778046391000,
+        "name": {
+          "en-US": "categories"
+        }
+      },
+      "versions": {
+        "cd96d4a90839458684f1b1d095b5523a0546b9da693dfc4a3ae88bb92323f632": {
+          "added": 1778046391000,
+          "file": {
+            "name": "/categories.txt",
+            "sha256": "cd96d4a90839458684f1b1d095b5523a0546b9da693dfc4a3ae88bb92323f632",
+            "size": 16
+          },
+          "manifest": {
+            "versionName": "cd96d4a",
+            "versionCode": 0
+          }
+        }
+      }
+    },
     "com.seniorlauncher.app": {
       "metadata": {
         "added": 1777959175000,

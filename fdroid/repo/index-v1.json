@@ -1,6 +1,6 @@
 {
   "repo": {
-    "timestamp": 1777959183000,
+    "timestamp": 1778046395000,
     "version": 20002,
     "name": "My First F-Droid Repo Demo",
     "icon": "icon.png",
@@ -12,6 +12,17 @@
     "uninstall": []
   },
   "apps": [
+    {
+      "categories": [
+        "fdroid"
+      ],
+      "suggestedVersionCode": "2147483647",
+      "license": "Unknown",
+      "name": "categories",
+      "added": 1778046391000,
+      "packageName": "cd96d4a90839458684f1b1d095b5523a0546b9da693dfc4a3ae88bb92323f632",
+      "lastUpdated": 1778046391000
+    },
     {
       "authorName": "rubenbupe",
       "categories": [
@@ -35,6 +46,17 @@
     }
   ],
   "packages": {
+    "cd96d4a90839458684f1b1d095b5523a0546b9da693dfc4a3ae88bb92323f632": [
+      {
+        "added": 1778046391000,
+        "apkName": "categories.txt",
+        "hash": "cd96d4a90839458684f1b1d095b5523a0546b9da693dfc4a3ae88bb92323f632",
+        "hashType": "sha256",
+        "packageName": "cd96d4a90839458684f1b1d095b5523a0546b9da693dfc4a3ae88bb92323f632",
+        "size": 16,
+        "versionName": "cd96d4a"
+      }
+    ],
     "com.seniorlauncher.app": [
       {
         "added": 1777959178000,
